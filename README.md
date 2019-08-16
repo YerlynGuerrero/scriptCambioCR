@@ -39,9 +39,9 @@ Esto va a genera un archivo .osm el cuál deberá guardarlo en la carpeta en don
 
 ### _Paso 2_
 
-    Ejecución del código
+Ejecución del código:
 
-    Abra a la terminal en la carpeta mencionada en el punto anterior y ejecute lo siguiente:
+   Abra a la terminal en la carpeta mencionada en el punto anterior y ejecute lo siguiente:
         ```
         python3 script.py <nombre del archivo>
         ```
